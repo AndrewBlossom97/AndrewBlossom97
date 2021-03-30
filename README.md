@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AndrewBlossom97
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning JS, then i'll learn C# and try to build a game with Unity.
